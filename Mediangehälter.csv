@@ -1,0 +1,401 @@
+Kreis;Medianentgelt_Wohnort_202312;SVBeschäftigte_Wohnort_202312
+01001 Flensburg, Stadt;3.214;20.504
+01002 Kiel, Landeshauptstadt;3.713;55.269
+01003 Lübeck, Hansestadt;3.602;50.593
+01004 Neumünster, Stadt;3.332;19.730
+01051 Dithmarschen;3.504;30.984
+01053 Herzogtum Lauenburg;3.803;50.813
+01054 Nordfriesland;3.295;37.993
+01055 Ostholstein;3.473;45.406
+01056 Pinneberg;3.904;85.908
+01057 Plön;3.773;28.365
+01058 Rendsburg-Eckernförde;3.732;62.864
+01059 Schleswig-Flensburg;3.471;42.831
+01060 Segeberg;3.849;77.265
+01061 Steinburg;3.670;33.119
+01062 Stormarn;4.099;63.345
+02000 Hamburg, Freie und Hansestadt;4.125;525.527
+03101 Braunschweig, Stadt;4.326;68.050
+03102 Salzgitter, Stadt;3.943;25.028
+03103 Wolfsburg, Stadt;4.797;35.577
+03151 Gifhorn;4.465;46.493
+03153 Goslar;3.596;30.820
+03154 Helmstedt;4.143;24.458
+03155 Northeim;3.594;32.189
+03157 Peine;4.021;36.234
+03158 Wolfenbüttel;4.178;29.729
+03159 Göttingen;3.757;73.824
+03241 Region Hannover;3.921;300.145
+03251 Diepholz;3.586;60.056
+03252 Hameln-Pyrmont;3.665;35.978
+03254 Hildesheim;3.705;67.291
+03255 Holzminden;3.605;17.040
+03256 Nienburg (Weser);3.545;30.743
+03257 Schaumburg;3.675;39.193
+03351 Celle;3.688;43.587
+03352 Cuxhaven;3.698;46.818
+03353 Harburg;4.056;71.353
+03354 Lüchow-Dannenberg;3.429;9.081
+03355 Lüneburg;3.766;44.394
+03356 Osterholz;3.893;28.079
+03357 Rotenburg (Wümme);3.555;43.999
+03358 Heidekreis;3.494;35.846
+03359 Stade;3.982;56.513
+03360 Uelzen;3.541;21.397
+03361 Verden;3.728;36.184
+03401 Delmenhorst, Stadt;3.321;17.764
+03402 Emden, Stadt;3.645;12.307
+03403 Oldenburg (Oldenburg), Stadt;3.676;40.645
+03404 Osnabrück, Stadt;3.641;41.119
+03405 Wilhelmshaven, Stadt;3.331;15.887
+03451 Ammerland;3.550;31.217
+03452 Aurich;3.497;44.802
+03453 Cloppenburg;3.203;51.743
+03454 Emsland;3.493;93.912
+03455 Friesland;3.641;22.481
+03456 Grafschaft Bentheim;3.494;36.097
+03457 Leer;3.444;41.229
+03458 Oldenburg;3.529;36.763
+03459 Osnabrück;3.536;101.687
+03460 Vechta;3.402;45.369
+03461 Wesermarsch;3.837;22.799
+03462 Wittmund;3.365;12.672
+04011 Bremen, Stadt;3.680;131.394
+04012 Bremerhaven, Stadt;3.358;26.018
+05111 Düsseldorf, Stadt;4.472;184.432
+05112 Duisburg, Stadt;3.726;119.588
+05113 Essen, Stadt;3.937;139.963
+05114 Krefeld, Stadt;3.742;56.378
+05116 Mönchengladbach, Stadt;3.522;66.977
+05117 Mülheim an der Ruhr, Stadt;4.044;41.052
+05119 Oberhausen, Stadt;3.754;50.509
+05120 Remscheid, Stadt;3.713;29.484
+05122 Solingen, Klingenstadt;3.726;42.636
+05124 Wuppertal, Stadt;3.698;85.822
+05154 Kleve;3.589;74.870
+05158 Mettmann;4.027;128.183
+05162 Rhein-Kreis Neuss;4.149;123.260
+05166 Viersen;3.838;75.331
+05170 Wesel;3.922;114.628
+05314 Bonn, Stadt;4.322;78.995
+05315 Köln, Stadt;4.197;280.438
+05316 Leverkusen, Stadt;3.957;43.471
+05334 Städteregion Aachen;3.894;134.573
+05358 Düren;3.832;69.404
+05362 Rhein-Erft-Kreis;4.014;127.955
+05366 Euskirchen;3.768;49.217
+05370 Heinsberg;3.694;65.140
+05374 Oberbergischer Kreis;3.759;74.179
+05378 Rheinisch-Bergischer Kreis;4.174;71.111
+05382 Rhein-Sieg-Kreis;3.979;150.918
+05512 Bottrop, Stadt;3.850;28.724
+05513 Gelsenkirchen, Stadt;3.529;57.984
+05515 Münster, Stadt;4.038;73.951
+05554 Borken;3.659;105.796
+05558 Coesfeld;3.803;59.329
+05562 Recklinghausen;3.787;151.491
+05566 Steinfurt;3.585;125.135
+05570 Warendorf;3.726;78.156
+05711 Bielefeld, Stadt;3.772;79.096
+05754 Gütersloh;3.621;111.086
+05758 Herford;3.598;66.805
+05762 Höxter;3.583;35.396
+05766 Lippe;3.710;86.972
+05770 Minden-Lübbecke;3.585;83.502
+05774 Paderborn;3.686;82.913
+05911 Bochum, Stadt;3.925;86.747
+05913 Dortmund, Stadt;3.760;145.297
+05914 Hagen, Stadt der FernUniversität;3.585;46.279
+05915 Hamm, Stadt;3.533;44.498
+05916 Herne, Stadt;3.606;36.511
+05954 Ennepe-Ruhr-Kreis;3.878;81.928
+05958 Hochsauerlandkreis;3.687;73.260
+05962 Märkischer Kreis;3.710;112.843
+05966 Olpe;3.816;40.418
+05970 Siegen-Wittgenstein;3.833;76.422
+05974 Soest;3.723;81.868
+05978 Unna;3.702;101.685
+06411 Darmstadt, Wissenschaftsstadt;4.521;41.325
+06412 Frankfurt am Main, Stadt;4.594;228.516
+06413 Offenbach am Main, Stadt;3.577;38.981
+06414 Wiesbaden, Landeshauptstadt;4.139;74.348
+06431 Bergstraße;4.086;73.270
+06432 Darmstadt-Dieburg;4.121;79.385
+06433 Groß-Gerau;3.943;78.558
+06434 Hochtaunuskreis;4.756;61.844
+06435 Main-Kinzig-Kreis;3.945;114.956
+06436 Main-Taunus-Kreis;4.738;68.348
+06437 Odenwaldkreis;3.731;24.028
+06438 Offenbach;4.087;99.600
+06439 Rheingau-Taunus-Kreis;4.256;46.573
+06440 Wetteraukreis;4.038;84.404
+06531 Gießen;3.859;63.903
+06532 Lahn-Dill-Kreis;3.800;65.002
+06533 Limburg-Weilburg;3.841;43.829
+06534 Marburg-Biedenkopf;3.919;57.655
+06535 Vogelsbergkreis;3.613;25.832
+06611 Kassel, documenta-Stadt;3.731;44.655
+06631 Fulda;3.579;60.306
+06632 Hersfeld-Rotenburg;3.509;30.895
+06633 Kassel;3.901;57.615
+06634 Schwalm-Eder-Kreis;3.740;44.792
+06635 Waldeck-Frankenberg;3.676;41.056
+06636 Werra-Meißner-Kreis;3.546;22.273
+07111 Koblenz, kreisfreie Stadt;3.718;27.852
+07131 Ahrweiler;3.699;32.133
+07132 Altenkirchen (Westerwald);3.649;34.981
+07133 Bad Kreuznach;3.725;39.637
+07134 Birkenfeld;3.439;19.775
+07135 Cochem-Zell;3.532;14.515
+07137 Mayen-Koblenz;3.740;54.555
+07138 Neuwied;3.697;48.693
+07140 Rhein-Hunsrück-Kreis;3.651;27.515
+07141 Rhein-Lahn-Kreis;3.688;30.859
+07143 Westerwaldkreis;3.678;56.109
+07211 Trier, kreisfreie Stadt;3.431;20.906
+07231 Bernkastel-Wittlich;3.437;29.197
+07232 Eifelkreis Bitburg-Prüm;3.589;19.042
+07233 Vulkaneifel;3.583;15.342
+07235 Trier-Saarburg;3.649;27.527
+07311 Frankenthal (Pfalz), kreisfreie Stadt;3.777;11.508
+07312 Kaiserslautern, kreisfreie Stadt;3.595;25.080
+07313 Landau in der Pfalz, kreisfreie Stadt;3.877;11.265
+07314 Ludwigshafen am Rhein, kreisfreie Stadt;3.784;47.516
+07315 Mainz, kreisfreie Stadt;4.405;57.892
+07316 Neustadt an der Weinstraße, kreisfreie Stadt;3.801;13.118
+07317 Pirmasens, kreisfreie Stadt;3.268;9.448
+07318 Speyer, kreisfreie Stadt;3.968;12.753
+07319 Worms, kreisfreie Stadt;3.621;23.435
+07320 Zweibrücken, kreisfreie Stadt;3.576;8.760
+07331 Alzey-Worms;3.940;35.594
+07332 Bad Dürkheim;4.178;34.738
+07333 Donnersbergkreis;3.879;19.573
+07334 Germersheim;4.013;36.982
+07335 Kaiserslautern;3.822;26.366
+07336 Kusel;3.796;17.275
+07337 Südliche Weinstraße;3.925;27.535
+07338 Rhein-Pfalz-Kreis;4.387;42.272
+07339 Mainz-Bingen;4.290;56.728
+07340 Südwestpfalz;3.803;23.500
+08111 Stuttgart, Landeshauptstadt;4.690;179.698
+08115 Böblingen;4.695;117.270
+08116 Esslingen;4.394;157.808
+08117 Göppingen;4.053;72.092
+08118 Ludwigsburg;4.488;162.492
+08119 Rems-Murr-Kreis;4.280;121.506
+08121 Heilbronn, Universitätsstadt;3.823;39.407
+08125 Heilbronn;4.180;107.978
+08126 Hohenlohekreis;4.053;36.906
+08127 Schwäbisch Hall;3.912;61.233
+08128 Main-Tauber-Kreis;3.739;37.716
+08135 Heidenheim;3.979;39.549
+08136 Ostalbkreis;4.261;90.022
+08211 Baden-Baden, Stadt;3.870;14.651
+08212 Karlsruhe, Stadt;4.344;81.212
+08215 Karlsruhe;4.076;129.542
+08216 Rastatt;4.042;68.507
+08221 Heidelberg, Stadt;4.707;35.119
+08222 Mannheim, Universitätsstadt;4.157;89.108
+08225 Neckar-Odenwald-Kreis;3.854;39.951
+08226 Rhein-Neckar-Kreis;4.226;150.707
+08231 Pforzheim, Stadt;3.588;37.135
+08235 Calw;4.023;47.153
+08236 Enzkreis;4.123;58.110
+08237 Freudenstadt;3.994;36.653
+08311 Freiburg im Breisgau, Stadt;4.058;47.718
+08315 Breisgau-Hochschwarzwald;3.844;66.186
+08316 Emmendingen;3.876;45.882
+08317 Ortenaukreis;3.790;126.490
+08325 Rottweil;3.973;41.902
+08326 Schwarzwald-Baar-Kreis;3.791;62.381
+08327 Tuttlingen;3.892;44.699
+08335 Konstanz;3.872;68.157
+08336 Lörrach;3.817;47.778
+08337 Waldshut;3.636;34.724
+08415 Reutlingen;4.110;81.734
+08416 Tübingen;4.377;54.846
+08417 Zollernalbkreis;3.838;55.147
+08421 Ulm, Universitätsstadt;4.187;37.839
+08425 Alb-Donau-Kreis;4.094;60.221
+08426 Biberach;4.216;61.764
+08435 Bodenseekreis;4.374;59.642
+08436 Ravensburg;3.987;78.502
+08437 Sigmaringen;3.832;37.288
+09161 Ingolstadt, Stadt;4.495;44.949
+09162 München, Landeshauptstadt;4.865;496.038
+09163 Rosenheim, Stadt;3.726;18.050
+09171 Altötting;3.970;30.248
+09172 Berchtesgadener Land;3.541;23.676
+09173 Bad Tölz-Wolfratshausen;3.973;34.835
+09174 Dachau;4.381;48.400
+09175 Ebersberg;4.453;43.293
+09176 Eichstätt;4.584;38.317
+09177 Erding;4.076;43.773
+09178 Freising;4.095;60.137
+09179 Fürstenfeldbruck;4.345;63.170
+09180 Garmisch-Partenkirchen;3.571;21.525
+09181 Landsberg am Lech;4.220;31.749
+09182 Miesbach;3.915;26.912
+09183 Mühldorf a.Inn;3.808;34.503
+09184 München;4.831;103.350
+09185 Neuburg-Schrobenhausen;3.999;29.269
+09186 Pfaffenhofen a.d.Ilm;4.180;40.751
+09187 Rosenheim;3.924;67.269
+09188 Starnberg;4.682;34.004
+09189 Traunstein;3.803;46.109
+09190 Weilheim-Schongau;4.052;36.002
+09261 Landshut, Stadt;3.763;21.631
+09262 Passau, Stadt;3.583;12.700
+09263 Straubing, Stadt;3.342;14.090
+09271 Deggendorf;3.688;33.805
+09272 Freyung-Grafenau;3.595;20.575
+09273 Kelheim;3.813;36.697
+09274 Landshut;3.919;47.774
+09275 Passau;3.551;50.552
+09276 Regen;3.601;19.487
+09277 Rottal-Inn;3.546;32.392
+09278 Straubing-Bogen;3.720;28.788
+09279 Dingolfing-Landau;3.817;31.484
+09361 Amberg, Stadt;3.645;11.286
+09362 Regensburg, Stadt;4.070;44.922
+09363 Weiden i.d.OPf., Stadt;3.404;11.007
+09371 Amberg-Sulzbach;3.834;28.176
+09372 Cham;3.606;34.451
+09373 Neumarkt i.d.OPf.;3.887;38.840
+09374 Neustadt a.d.Waldnaab;3.659;25.149
+09375 Regensburg;4.055;54.666
+09376 Schwandorf;3.713;44.058
+09377 Tirschenreuth;3.666;19.534
+09461 Bamberg, Stadt;3.756;18.982
+09462 Bayreuth, Stadt;3.620;17.577
+09463 Coburg, Stadt;3.698;11.143
+09464 Hof, Stadt;3.126;11.827
+09471 Bamberg;3.773;41.845
+09472 Bayreuth;3.706;28.146
+09473 Coburg;3.548;24.461
+09474 Forchheim;4.097;32.209
+09475 Hof;3.315;24.344
+09476 Kronach;3.305;18.685
+09477 Kulmbach;3.527;19.686
+09478 Lichtenfels;3.399;18.694
+09479 Wunsiedel i.Fichtelgebirge;3.415;19.078
+09561 Ansbach, Stadt;3.414;11.339
+09562 Erlangen, Stadt;4.818;32.417
+09563 Fürth, Stadt;3.804;39.427
+09564 Nürnberg, Stadt;3.827;149.806
+09565 Schwabach, Stadt;3.749;11.149
+09571 Ansbach;3.594;53.435
+09572 Erlangen-Höchstadt;4.466;39.137
+09573 Fürth;4.047;32.821
+09574 Nürnberger Land;4.034;46.156
+09575 Neustadt a.d.Aisch-Bad Windsheim;3.562;28.954
+09576 Roth;3.895;35.145
+09577 Weißenburg-Gunzenhausen;3.653;25.357
+09661 Aschaffenburg, Stadt;3.895;20.390
+09662 Schweinfurt, Stadt;3.619;14.247
+09663 Würzburg, Stadt;3.870;32.538
+09671 Aschaffenburg;4.009;48.765
+09672 Bad Kissingen;3.640;27.087
+09673 Rhön-Grabfeld;3.683;21.357
+09674 Haßberge;3.740;23.161
+09675 Kitzingen;3.591;26.155
+09676 Miltenberg;3.733;35.987
+09677 Main-Spessart;3.937;34.871
+09678 Schweinfurt;3.974;32.086
+09679 Würzburg;3.833;42.644
+09761 Augsburg, Stadt;3.766;85.950
+09762 Kaufbeuren, Stadt;3.724;12.600
+09763 Kempten (Allgäu), Stadt;3.699;19.481
+09764 Memmingen, Stadt;3.641;13.458
+09771 Aichach-Friedberg;4.081;37.379
+09772 Augsburg;4.013;71.394
+09773 Dillingen a.d.Donau;3.843;27.958
+09774 Günzburg;3.630;38.651
+09775 Neu-Ulm;4.010;54.696
+09776 Lindau (Bodensee);3.867;21.274
+09777 Ostallgäu;3.901;38.362
+09778 Unterallgäu;3.857;43.494
+09779 Donau-Ries;3.917;40.285
+09780 Oberallgäu;3.752;41.526
+10041 Regionalverband Saarbrücken;3.753;79.308
+10042 Merzig-Wadern;3.692;21.470
+10043 Neunkirchen;3.708;33.376
+10044 Saarlouis;3.866;48.876
+10045 Saarpfalz-Kreis;3.941;36.426
+10046 St. Wendel;3.840;21.594
+11000 Berlin, Stadt;3.955;917.691
+12051 Brandenburg an der Havel, Stadt;3.339;17.522
+12052 Cottbus, Stadt;3.466;22.375
+12053 Frankfurt (Oder), Stadt;3.255;13.126
+12054 Potsdam, Stadt;3.856;46.701
+12060 Barnim;3.559;48.696
+12061 Dahme-Spreewald;3.550;47.952
+12062 Elbe-Elster;3.037;24.059
+12063 Havelland;3.468;44.298
+12064 Märkisch-Oderland;3.472;49.738
+12065 Oberhavel;3.611;56.776
+12066 Oberspreewald-Lausitz;3.135;26.370
+12067 Oder-Spree;3.505;45.143
+12068 Ostprignitz-Ruppin;3.063;23.559
+12069 Potsdam-Mittelmark;3.645;56.673
+12070 Prignitz;2.999;17.772
+12071 Spree-Neiße;3.231;26.579
+12072 Teltow-Fläming;3.431;50.302
+12073 Uckermark;3.145;24.740
+13003 Rostock, Hanse- und Universitätsstadt;3.360;51.617
+13004 Schwerin, Landeshauptstadt;3.386;22.990
+13071 Mecklenburgische Seenplatte;3.052;58.135
+13072 Landkreis Rostock;3.248;53.329
+13073 Vorpommern-Rügen;3.000;51.683
+13074 Nordwestmecklenburg;3.321;39.670
+13075 Vorpommern-Greifswald;3.113;50.332
+13076 Ludwigslust-Parchim;3.121;57.004
+14511 Chemnitz, Stadt;3.279;58.216
+14521 Erzgebirgskreis;2.987;76.828
+14522 Mittelsachsen;3.050;74.852
+14523 Vogtlandkreis;3.027;53.256
+14524 Zwickau;3.239;78.924
+14612 Dresden, Stadt;3.687;145.429
+14625 Bautzen;3.146;72.075
+14626 Görlitz;2.953;51.402
+14627 Meißen;3.195;60.055
+14628 Sächsische Schweiz-Osterzgebirge;3.147;61.338
+14713 Leipzig, Stadt;3.553;154.800
+14729 Leipzig;3.309;66.776
+14730 Nordsachsen;3.126;52.768
+15001 Dessau-Roßlau, Stadt;3.266;18.809
+15002 Halle (Saale), Stadt;3.313;55.932
+15003 Magdeburg, Landeshauptstadt;3.378;60.938
+15081 Altmarkkreis Salzwedel;3.178;21.236
+15082 Anhalt-Bitterfeld;3.082;43.141
+15083 Börde;3.317;47.269
+15084 Burgenlandkreis;3.133;45.788
+15085 Harz;3.240;51.976
+15086 Jerichower Land;3.175;23.170
+15087 Mansfeld-Südharz;3.113;30.012
+15088 Saalekreis;3.344;51.571
+15089 Salzlandkreis;3.155;45.033
+15090 Stendal;3.141;25.368
+15091 Wittenberg;3.091;31.476
+16051 Erfurt, Stadt;3.329;57.639
+16052 Gera, Stadt;3.055;22.690
+16053 Jena, Stadt;3.924;26.299
+16054 Suhl, Stadt;3.007;8.831
+16055 Weimar, Stadt;3.498;14.373
+16061 Eichsfeld;3.239;26.758
+16062 Nordhausen;3.175;19.837
+16063 Wartburgkreis;3.257;43.594
+16064 Unstrut-Hainich-Kreis;3.029;24.654
+16065 Kyffhäuserkreis;3.116;17.555
+16066 Schmalkalden-Meiningen;3.136;33.149
+16067 Gotha;3.081;39.031
+16068 Sömmerda;3.098;18.423
+16069 Hildburghausen;3.098;17.396
+16070 Ilm-Kreis;3.209;28.533
+16071 Weimarer Land;3.246;21.944
+16072 Sonneberg;3.044;16.279
+16073 Saalfeld-Rudolstadt;3.156;25.620
+16074 Saale-Holzland-Kreis;3.207;22.785
+16075 Saale-Orla-Kreis;2.927;21.102
+16076 Greiz;3.036;23.440
+16077 Altenburger Land;3.048;21.225
